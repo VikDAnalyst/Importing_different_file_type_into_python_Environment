@@ -5,7 +5,7 @@
 This project demonstrates how to import various file formats into the Python environment for data analysis and exploration.
 It serves as a practical guide for data analysts and researchers who frequently work with datasets from multiple sources and formats.
 
-The notebook covers the importation of files commonly used in data science, including CSV, Excel, JSON, TXT, SQL, STATA, and SAS files.
+The notebook covers the importation of files commonly used in data science, including CSV, Excel, JSON, TXT, STATA, and SAS files.
 
 📂 Files Included:
 | File Name               | Description                                         |
